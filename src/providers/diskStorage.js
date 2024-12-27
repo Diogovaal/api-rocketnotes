@@ -1,4 +1,4 @@
-const fs = require("fs")/**manipulaçãi de arquivos */
+const fs = require("fs")/**manipulação de arquivos */
 const path = require("path")/**para navegar pelos diretorios */
 const uploadConfig = require("../confings/upload")
 
